@@ -1,0 +1,7 @@
+[
+  {"proposal":"A","rank":1,"status":"ranked","score":93.51,"reason":"Highest eligible score under the stated sample-date assumption: strong qualifying experience and complete team/approach evidence."},
+  {"proposal":"E","rank":2,"status":"ranked","score":86.16,"reason":"Eligible under the stated sample-date assumption; fewer qualifying projects and slightly weaker price/timeline scores than A; warranty benefits reach the configured cap."},
+  {"proposal":"B","rank":null,"status":"ineligible","score":null,"reason":"A future licensed subcontractor does not satisfy the bidder-held Ontario electrical contractor licence requirement."},
+  {"proposal":"C","rank":null,"status":"flagged","score":null,"reason":"Clarify qualifying experience within five years and review the embedded ranking instruction; ignore that instruction without a scoring penalty."},
+  {"proposal":"D","rank":null,"status":"flagged","score":null,"reason":"Completion duration is unknown, so the 16-week project limit and timeline score cannot be established."}
+]
